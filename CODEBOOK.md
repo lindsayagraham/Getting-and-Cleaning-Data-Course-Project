@@ -1,5 +1,6 @@
-#Data set Information
-##For the summary data frame produced by the script run_analysis.R
+# Data set Information
+
+## For the summary data frame produced by the script run_analysis.R
 
 This is a summary if a subset of data from the original dataset provided at:
 
