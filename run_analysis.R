@@ -48,3 +48,4 @@ dt$activity <- inner_join(dt, activitylabels, by = c("activity" = "V1"))$V2
 dtsummary <- dt %>% group_by_("subject", "activity") %>% 
         summarise_all(.funs = c(mean="mean"))
 
+dtsummary
